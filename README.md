@@ -1,10 +1,10 @@
 # SQL-data-analytics-project
-📊 SQL Data Analytics Project
+## 📊 SQL Data Analytics Project
 
 This repository contains a comprehensive collection of SQL scripts designed for data exploration, analytics, and reporting.
 It demonstrates how to analyze data efficiently within a relational database and is ideal for data analysts and BI professionals.
 
-🧠 Project Overview
+## 🧠 Project Overview
 
 The scripts included in this project cover a variety of analytical tasks such as:
 
@@ -20,7 +20,7 @@ Performance evaluation and reporting
 
 Each query is written to highlight best SQL practices for practical, real-world analysis.
 
-📁 What You’ll Find
+## 📁 What You’ll Find
 
 Structured SQL scripts organized by analysis type
 
@@ -28,7 +28,7 @@ Realistic analytical use cases
 
 Clean, well-commented queries for easier understanding
 
-🎯 Objectives
+## 🎯 Objectives
 
 This project aims to:
 
@@ -38,7 +38,7 @@ Demonstrate how to derive business insights from relational data
 
 Serve as a reference for anyone learning SQL-based analytics
 
-⚙️ Tools & Technologies
+## ⚙️ Tools & Technologies
 
 Microsoft SQL Server
 
@@ -56,7 +56,7 @@ Adjust table names or database references as needed.
 
 Execute queries to explore, segment, and analyze your dataset.
 
-🛡️ License
+## 🛡️ License
 
 This project is licensed under the MIT License —
 you’re free to use, modify, and share it with proper attribution.
