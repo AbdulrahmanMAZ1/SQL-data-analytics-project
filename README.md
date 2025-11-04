@@ -46,7 +46,7 @@ SQL Management Studio (SSMS)
 
 Relational Database Concepts
 
-🪄 How to Use
+## 🧭 How to Use
 
 Clone or download this repository.
 
