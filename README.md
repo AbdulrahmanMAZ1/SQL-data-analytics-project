@@ -67,8 +67,9 @@ Hi there! I'm Abdulrahman.
 This project reflects my approach to structuring and analyzing data using SQL. I focused on organizing each phase methodically — from exploration and cleaning to analysis — to ensure a clear overview and meaningful insights.
 
 Let’s stay in touch! Feel free to connect with me on any of my platforms:
+
 <a href="https://www.linkedin.com/in/abdulrahman-mohamed-17484928a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
 </a>
 
 
