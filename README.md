@@ -60,3 +60,10 @@ Execute queries to explore, segment, and analyze your dataset.
 
 This project is licensed under the MIT License —
 you’re free to use, modify, and share it with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **Abdulrahman**. This is my first SQL project that I've ever made , I learned more about how to organize each project phases and approach it step by step, to have an overview about the project and how look at the data to clean the data in a simple way. 
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/abdulrahman-mohamed-17484928a/)]
