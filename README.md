@@ -68,15 +68,9 @@ This project reflects my approach to structuring and analyzing data using SQL. I
 
 Let’s stay in touch! Feel free to connect with me on any of my platforms:
 
-## 🤝 Connect with Me
+<a href="https://www.linkedin.com/in/abdulrahman-mohamed-17484928a/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+</a>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdulrahman-mohamed-17484928a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-</p>
 
 
